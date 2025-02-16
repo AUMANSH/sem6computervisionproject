@@ -1,5 +1,0 @@
-train: /content/sem6computervisionproject/train/images
-val: /content/sem6computervisionproject/valid/images
-test: /content/sem6computervisionproject/test/images
-nc: 2  # Number of classes (adjust as needed)
-names: ["no_ship", "ship"]  # Change to actual ship types if needed
